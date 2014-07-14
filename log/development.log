@@ -1,0 +1,60 @@
+
+
+Started GET "/" for 153.193.70.39 at 2014-07-14 11:59:31 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/action/.gem/ruby/2.1.1/gems/railties-4.1.0/lib/rails/templates/rails/welcome/index.html.erb (3.3ms)
+Completed 200 OK in 53ms (Views: 52.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/static_pages/home" for 153.193.70.39 at 2014-07-14 11:59:49 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 1801ms (Views: 1800.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 153.193.70.39 at 2014-07-14 11:59:51 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 153.193.70.39 at 2014-07-14 11:59:51 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 153.193.70.39 at 2014-07-14 11:59:51 +0000
+
+
+Started GET "/assets/static_pages.css?body=1" for 153.193.70.39 at 2014-07-14 11:59:51 +0000
+
+
+Started GET "/assets/turbolinks.js?body=1" for 153.193.70.39 at 2014-07-14 11:59:51 +0000
+
+
+Started GET "/assets/static_pages.js?body=1" for 153.193.70.39 at 2014-07-14 11:59:51 +0000
+
+
+Started GET "/assets/application.js?body=1" for 153.193.70.39 at 2014-07-14 11:59:51 +0000
+
+
+Started GET "/static_pages/help" for 153.193.70.39 at 2014-07-14 11:59:58 +0000
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/help.html.erb within layouts/application (8.5ms)
+Completed 200 OK in 20ms (Views: 19.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 153.193.70.39 at 2014-07-14 11:59:58 +0000
+
+
+Started GET "/assets/static_pages.js?body=1" for 153.193.70.39 at 2014-07-14 11:59:58 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 153.193.70.39 at 2014-07-14 11:59:58 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 153.193.70.39 at 2014-07-14 11:59:58 +0000
+
+
+Started GET "/assets/application.css?body=1" for 153.193.70.39 at 2014-07-14 11:59:58 +0000
+
+
+Started GET "/assets/application.js?body=1" for 153.193.70.39 at 2014-07-14 11:59:58 +0000
+
+
+Started GET "/assets/turbolinks.js?body=1" for 153.193.70.39 at 2014-07-14 11:59:58 +0000
